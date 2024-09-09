@@ -33,11 +33,11 @@ Launcher: <br/>
 <br />
 <br />
 Main Menu: <br/>
-<img src="https://i.imgur.com/Xtiah0Z.png" height="80%" width="80%" alt="Axiom Login"/>
+<img src="https://i.imgur.com/Xtiah0Z.png" height="80%" width="80%" alt="Axiom Main Menu"/>
 <br />
 <br />
 Aggregate Analytics: <br/>
-<img src="https://i.imgur.com/ZGDeaaG.png" height="80%" width="80%" alt="Axiom Login"/>
+<img src="https://i.imgur.com/ZGDeaaG.png" height="80%" width="80%" alt="Axiom Analytics"/>
 <br />
 <br />
 </p>
